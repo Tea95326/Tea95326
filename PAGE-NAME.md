@@ -1,3 +1,3 @@
 layout: page
 title: "Tea's page"
-permalink: /URL-PATH/
+permalink: /Tea95326.github.io/
